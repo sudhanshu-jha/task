@@ -1,0 +1,5 @@
+pandas==2.0.3
+SQLAlchemy==2.0.19
+Flask==2.3.3
+PyJWT==2.6.0
+Werkzeug==2.3.6
